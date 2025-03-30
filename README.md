@@ -12,4 +12,7 @@ Knee osteoarthritis (OA) is a frequent musculoskeletal disorder that leads to ph
 
 ![image alt](https://github.com/Umar-Faroq/DC-AAE-dual-channel-adversarial-autoencoder-with-multitask-learning-for-KL-grade-classification/blob/main/Central_crop.PNG?raw=true)
 
+## The KL-Grade Classification model
+![image alt]()
+
 
