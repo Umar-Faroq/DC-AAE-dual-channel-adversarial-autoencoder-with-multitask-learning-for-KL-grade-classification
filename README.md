@@ -6,6 +6,6 @@ Knee osteoarthritis (OA) is a frequent musculoskeletal disorder that leads to ph
 
 
 ## Overall pipeline
-![image alt](https://github.com/Umar-Faroq/DC-AAE-dual-channel-adversarial-autoencoder-with-multitask-learning-for-KL-grade-classification/blob/main/Samples.PNG?raw=true)
+![image alt](https://github.com/Umar-Faroq/DC-AAE-dual-channel-adversarial-autoencoder-with-multitask-learning-for-KL-grade-classification/blob/main/Preprocessing.PNG?raw=true)
 
 
